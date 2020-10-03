@@ -13,7 +13,7 @@ namespace ConsoleApp1
         School[1] = new int[] {45,55,78};
         School[2] = new int[] {90,98,2,5,4,65};
         School[3] = new int[] {45,66,33,22,34};
-        School[4] = new int[] {45,66,33,22,34};
+        School[4] = new int[] {45,66,33,22,345};
 
     }
 }
